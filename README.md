@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @cangwuu
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate 
 - 📫 How to reach me cangwu233@hotmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: no
 - ⚡ Fun fact: I'm not lgbt
 
 <!---
